@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Lobster&display=swap');
+div{
+    height: 88%;
+    width: 342px;
+    background-color:black;
+    border: white 8px solid;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 11px;
+    
+}
+img{
+    width: 95%;
+    height: 309px;
+    border-radius: 7px;
+}
+p{
+    font-size: medium;
+    font-family: 'Lobster', cursive;;
+}
